@@ -1,0 +1,11 @@
+{
+  "title": "Campus Hub",
+  "description": "Connects students, alumni, and admins in a unified platform offering resources, events, job listings, and community tools for Premier University.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
